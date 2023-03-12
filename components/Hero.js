@@ -1,8 +1,6 @@
 import React from 'react'
-import {SiHiveBlockchain} from 'react-icons/Si';
-import {useRef} from 'react'
+import {SiHiveBlockchain} from 'react-icons/si';
 import {FiSearch} from 'react-icons/fi';
-import Image from 'next/image';
 
 const Hero = () => {
     return (
